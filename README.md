@@ -1,2 +1,2 @@
 # PCA_Demonstration
-This a PCA demonstration using dermatology data
+This is a PCA demonstration using dermatology data
